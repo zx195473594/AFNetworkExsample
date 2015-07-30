@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:hhhhhhViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:hhhhhhViewController.m">
+   </FileRef>
+   <FileRef
       location = "group:AFNetworkExsample.xcodeproj">
    </FileRef>
    <FileRef
